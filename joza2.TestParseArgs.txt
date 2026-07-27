@@ -1,0 +1,8 @@
+test_argparse_help (__main__.TestParseArgs.test_argparse_help)
+assignment2.py -h returns the required options ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.061s
+
+OK
+joza2
